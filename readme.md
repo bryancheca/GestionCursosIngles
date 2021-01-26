@@ -23,8 +23,3 @@ We would like to extend our thanks to the following sponsors for helping fund on
 - [SOFTonSOFA](https://softonsofa.com/)
 
 
-
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).

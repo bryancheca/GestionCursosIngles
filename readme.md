@@ -20,5 +20,5 @@ We would like to extend our thanks to the following sponsors for helping fund on
 - **[British Software Development](https://www.britishsoftware.co)**
 - **[Styde](https://styde.net)**
 - [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/) 
+
 
